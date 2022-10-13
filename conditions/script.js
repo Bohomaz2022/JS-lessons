@@ -52,3 +52,4 @@ switch (day) {
     default:
         console.log('haha, dream about rest');
 }
+
