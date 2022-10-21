@@ -30,6 +30,6 @@
 // const num = 12.1;
 // console.log(Math.round(num));
 
-const test = '12.2px';
-console.log(parseInt(test));
-console.log(parseFloat(test));
+// const test = '12.2px';
+// console.log(parseInt(test));
+// console.log(parseFloat(test));
